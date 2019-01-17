@@ -9,7 +9,7 @@
 
 int main(void) {
 
-	printf("Howdy World, Its me, ya boi!");
+	printf("Howdy World, Its me, Jesus Rivea III, ya boi!");
 	printf("\n My major is Electrical Enginearing");
 
    return 0;

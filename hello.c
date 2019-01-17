@@ -10,6 +10,7 @@
 int main(void) {
 
 	printf("Howdy World, Its me, ya boi!");
+	printf("\n My major is Electrical Enginearing");
 
    return 0;
 }

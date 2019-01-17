@@ -11,6 +11,8 @@ int main(void) {
 
 	printf("Howdy World, Its me, Jesus Rivea III, ya boi!");
 	printf("\n My major is Electrical Enginearing");
+	printf("\n Additionally, I am Stephen Wilson");
+	printf("\n My major is in Electrical Engineering");
 
    return 0;
 }
